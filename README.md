@@ -20,5 +20,5 @@ It includes screenshots, documentation, and answers as per the submission guidel
 
 <img width="985" height="657" alt="Screenshot 2026-10-17 031608" src="https://github.com/user-attachments/assets/e19b265f-4b2e-44ae-b3a6-6baeb77911e7" />
 <img width="987" height="560" alt="Screenshot 2026-10-17 031622" src="https://github.com/user-attachments/assets/5df3755f-f0f3-4f0d-a7c3-9995034db930" />
-<img width="615" height="536" alt="Screenshot 2026-10-17 031345" src="https://github.com/user-attachments/assets/207d9db1-1f8a-42af-bb9c-59a7593ab3fe" />
+<img width="620" height="532" alt="Screenshot 2026-10-17 031055" src="https://github.com/user-attachments/assets/54815b20-a4f6-4965-8e1d-cb2603c6599e" />
 <img width="1585" height="287" alt="Screenshot 2026-10-17 030708" src="https://github.com/user-attachments/assets/5a77d7f2-591a-470a-a679-837957588dc4" />
